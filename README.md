@@ -36,7 +36,8 @@ An AI-powered MERN Stack web application that allows users to upload travel book
 - Gemini AI API
 
 ---
-
+## Demo Video
+Link: https://drive.google.com/file/d/1hR5vT6jwXRoXX46sraNAEgoCb197WOgs/view?usp=sharing
 
 ## ⚙️ Installation
 
